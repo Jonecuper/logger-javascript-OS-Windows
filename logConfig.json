@@ -1,0 +1,6 @@
+{
+    "logDir": "C:\\local\\logs\\",
+    "logFileName": "custom_log.txt",
+    "maxFileSize": 1048576,
+    "dateFormat": "yyyy-MM-dd HH:mm:ss"
+}
